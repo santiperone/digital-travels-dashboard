@@ -16,7 +16,6 @@ function Sidebar() {
         <Navitem title="Pages" icon="folder" collapsed="true" />
         <Navitem title="Charts" icon="chart-area" />
         <Navitem title="Tables" icon="table" />
-
       </ul>
     );
   }
